@@ -1,0 +1,6 @@
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.Notepad1.resources
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
