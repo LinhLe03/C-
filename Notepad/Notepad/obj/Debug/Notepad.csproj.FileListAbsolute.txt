@@ -4,3 +4,8 @@ D:\Computing\Notepad\Notepad\obj\Debug\Notepad.Notepad1.resources
 D:\Computing\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
 D:\Computing\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
 D:\Computing\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Computing\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Computing\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\Computing\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Computing\Notepad\Notepad\obj\Debug\Notepad.pdb
